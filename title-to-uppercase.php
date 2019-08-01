@@ -2,7 +2,7 @@
 /*
 Plugin Name: Title to Uppercase
 PLugin URI: https://github.com/hasibmuhammad/title-to-uppercase
-Description: This plugin will capitalize your post title.
+Description: This plugin will make uppercase your post title.
 Version: 1.0
 Author: Hasib Muhammad
 Author URI: https://github.comm/hasibmuhammad
